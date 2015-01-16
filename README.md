@@ -1,4 +1,9 @@
 # protractor-result-json-output-file-reader
+## Installation
+
+```shell
+npm install protractor-result-json-output-file-reader --save-dev
+```
 
 ## To print out the output:
 

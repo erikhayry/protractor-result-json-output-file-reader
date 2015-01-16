@@ -1,6 +1,6 @@
 {
   "name": "protractor-result-json-output-file-reader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reads and/or outputs the result json output file created by protractor",
   "main": "index.js",
   "scripts": {
