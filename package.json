@@ -1,0 +1,29 @@
+{
+  "name": "protractor-result-json-output-file-reader",
+  "version": "1.0.0",
+  "description": "Reads and/or outputs the result json output file created by portractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikportin/protractor-result-json-output-file-reader"
+  },
+  "keywords": [
+    "protractor",
+    "json",
+    "resultJsonOutputFile"
+  ],
+  "author": "Erik Portin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikportin/protractor-result-json-output-file-reader/issues"
+  },
+  "homepage": "https://github.com/erikportin/protractor-result-json-output-file-reader",
+  "devDependencies": {
+    "chalk": "^0.5.1",
+    "lodash-node": "^2.4.1",
+    "q": "^1.1.2"
+  }
+}
