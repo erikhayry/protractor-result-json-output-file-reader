@@ -1,7 +1,7 @@
 {
   "name": "protractor-result-json-output-file-reader",
-  "version": "1.0.0",
-  "description": "Reads and/or outputs the result json output file created by portractor",
+  "version": "1.0.1",
+  "description": "Reads and/or outputs the result json output file created by protractor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
